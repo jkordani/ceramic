@@ -1,6 +1,6 @@
 # [Ceramic](http://ceramic.github.io/)
 
-[![Build Status](https://travis-ci.org/jkordani/ceramic.svg?branch=master)](https://travis-ci.org/ceramic/ceramic)
+[![Build Status](https://travis-ci.org/jkordani/ceramic.svg?branch=master)](https://travis-ci.org/jkordani/ceramic)
 [![Coverage Status](https://coveralls.io/repos/jkordani/ceramic/badge.svg?branch=master&service=github)](https://coveralls.io/github/jkordani/ceramic?branch=master)
 
 Common Lisp web apps on the desktop.
